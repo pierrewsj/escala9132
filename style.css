@@ -35,7 +35,7 @@ body {
   margin: 0 0 8px;
 }
 h1, h2, p { margin-top: 0; }
-h1 { margin-bottom: 6px; font-size: 1.55rem; }
+h1 { margin-bottom: 6px; font-size: 1.15rem; }
 .subtitulo { margin-bottom: 0; color: #d1d5db; }
 .container { max-width: 1050px; margin: 0 auto; padding: 16px; }
 .card {
